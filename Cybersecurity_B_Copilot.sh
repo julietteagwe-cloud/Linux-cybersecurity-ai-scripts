@@ -1,6 +1,6 @@
 #!/bin/bash
 ###############################################################################
-# CYBERSECURITY SCRIPT B (Copilot-style)
+# CYBERSECURITY SCRIPT B Copilot-
 # Purpose: Do a SMALL hardening action on my lab server:
 #   - Make sure I am root
 #   - Check firewall tool
