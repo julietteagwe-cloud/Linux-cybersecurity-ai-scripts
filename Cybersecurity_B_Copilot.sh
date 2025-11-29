@@ -110,6 +110,4 @@ awk -F: '$7 ~ /(bash|sh)$/ {print \"    - \" $1 \" (shell: \" $7 \")\"}' /etc/pa
 
 log ""
 log "===== END OF COPILOT CYBERSECURITY SCRIPT B ====="
-log "You can explain in your documentation that:"
-log "  * On Ubuntu you INSTALLED ufw and enabled simple rules."
-log "  * On CentOS you reused firewalld rules if it was already installed."
+
