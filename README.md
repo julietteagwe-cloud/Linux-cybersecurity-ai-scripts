@@ -66,7 +66,7 @@ ChatGPT script running successfully on both servers
 
 Copilot script showing errors
 
-Screenshot of manual fixes (ARC fix, “TE” fix)
+Screenshot of manual fixes (Awk fix, “TE” fix)
 
 Final successful execution on Ubuntu
 
@@ -110,7 +110,6 @@ Ubuntu uses the home directory:
 To run:
 
 ./ChatGPT_Cybersecurity_Short_A.sh
-sudo ./Cybersecurity_B_Copilot.sh
 
 CentOS Server
 
@@ -121,7 +120,6 @@ CentOS stores files in:
 
 To run:
 
-./ChatGPT_Cybersecurity_Short_A.sh
 sudo ./Cybersecurity_B_Copilot.sh
 
 Where the Script Output Is Saved
@@ -129,17 +127,9 @@ Script A (ChatGPT)
 
 Saved automatically to:
 
-Ubuntu: /root/cybersecurity_A_chatgpt_2025-11-28.txt
+Ubuntu: /home/juliette/cybersecurity_A_chatgpt_2025-11-28.txt
 
 CentOS: /root/cybersecurity_A_chatgpt_2025_11_28.txt
-
-Script B (Copilot)
-
-Saved automatically to:
-
-Ubuntu: /rrot/cybersecurity_B_copilot_2025-11-28.log
-
-CentOS: /root/cybersecurity_B_copilot_2025-11-28.log
 
 Summary of My Manual Work (What I Did Myself)
 
